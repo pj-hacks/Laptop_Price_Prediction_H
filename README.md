@@ -12,7 +12,12 @@ A brief description of the project:
 - Leader: Name
 - Member 1: Name
 - Member 2: Name
-- ...
+- Member 3: Name
+- Member 4: Name 
+- Member 5: Name
+- Member 6: Name
+- Member 7: Name
+- Member 8: Name
 - Member 9: Name
 
 ## Project Folder Structure
