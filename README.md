@@ -15,31 +15,33 @@ A brief description of the project:
 - ...
 - Member 9: Name
 
-## 3. Project Structure
+## Project Folder Structure
 
+```
 LaptopPricePrediction/
 │
 ├── data/
-│ ├── raw/
-│ ├── processed/
-│ └── external/
+│   ├── raw/
+│   ├── processed/
+│   └── external/
 │
 ├── notebooks/
-│ ├── 01_data_collection.ipynb
-│ ├── 02_data_cleaning.ipynb
-│ ├── 03_exploratory_analysis.ipynb
-│ ├── 04_model_building.ipynb
-│ ├── 05_evaluation.ipynb
-│ └── 06_final_report.ipynb
+│   ├── 01_data_collection.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_exploratory_analysis.ipynb
+│   ├── 04_model_building.ipynb
+│   ├── 05_evaluation.ipynb
+│   └── 06_final_report.ipynb
 │
 ├── reports/
-│ ├── figures/
-│ └── presentation/
+│   ├── figures/
+│   └── presentation/
 │
 ├── .gitignore
 ├── .gitkeep
 ├── README.md
 └── requirements.txt
+```
 
 
 ## 4. How to Run
